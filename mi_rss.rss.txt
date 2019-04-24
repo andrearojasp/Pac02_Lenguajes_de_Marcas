@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+<channel>
+       <title>Canal RSS</title>
+       <link>https://github.com/andrearojasp/Pac02_Lenguajes_de_Marcas</link>
+       <description>Noticias de ciencia actual</description> 
+       <item>
+ 	<title>Las mejores ima´genes cienti´ficas del año</title>
+ 	<link>https://www.nationalgeographic.com.es/ciencia/fotciencia-16-mejores-imagenes-cientificas-ano_14058/1</link>
+	 <description>El certamen fotográfico anual organizado por FECYT muestra la belleza de lo oculto a través de las imágenes. Y aquí se encuentran las mejores fotos del certamen.</description>
+        </item>
+        <item>
+ 	<title>La NASA viajará al polo Sur de la Luna en 2024</title>
+ 	<link>https://www.nationalgeographic.com.es/ciencia/nasa-viajara-polo-sur-luna-2024_14105</link>
+	 <description>Detalles de envio de una misión tripulada a la Luna para el año 2024 de modo que los  astronautas vuelvan a pisar nuestro satélite natural en los próximos 5 años.</description>
+        </item>
+         <item>
+	<title>Bacterias, la clave del olor y el sabor del queso</title>
+ 	<link>https://www.nationalgeographic.com.es/ciencia/actualidad/bacterias-clave-del-olor-sabor-del-queso_11205</link>
+	 <description>Técnica analítica desarrolada por científicos que permite identificar las bacterias responsables del aroma del queso. </description>  
+        </item>
+        <item>
+     	<title>El desarrollo del cerebro, desde las amebas hasta el ser humano</title>
+ 	<link>https://www.nationalgeographic.com.es/ciencia/desarrollo-cerebro-amebas-hasta-ser-humano_14099</link>
+	 <description>Evolución a lo largo de nuestra historia hasta convertirnos en lo que somos en la actualidad </description>
+        </item>
+        <item>
+ 	<title>El cambio climático podría causar un efecto dominó en la extinción global</title>
+ 	<link>https://www.nationalgeographic.com.es/ciencia/actualidad/cambio-climatico-podria-causar-efecto-domino-extincion-global_13612</link>
+	 <description>Explicación de lo que los científicos llaman 'coextinciones', donde un organismo desaparece porque depende de otra especie condenada</description>
+        </item>
+</channel>
+</rss>
